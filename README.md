@@ -31,3 +31,8 @@ Eventually, I want to go deeper into low-level development regarding graphical s
 - Designed the core alien AI by utilizing state machines and predictive algorithms based on player positions, actions, and noise with C#, as well as implementing the Steam Audio API for sound physics simulation
 - Utilized Google Docs for alien AI planning, Unity for the game itself, and FL Studio for music and sound design
 
+**Untitled Roguelike Project | INIT Build Lead Spring 2026**\
+*February 2026 – April 2026*
+- Currently collaborating with 7 other INIT members to create an exciting roguelike game inspired by roguelike games such as Soul Knight and The Binding of Issac
+- Can't wait to share more soon!
+
