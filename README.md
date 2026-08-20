@@ -45,7 +45,7 @@ Eventually, I want to go deeper into low-level development regarding graphical s
 - Developed the fundamental framework for scalable player-object interaction systems by implementing object-oriented programming and polymorphism with C#
 - Utilized Google Docs for method documentation, Unity for game development, and FL Studio for music
 
-
-
-
-
+## Activities
+- Conducting personal research on graphics pipelines with C++ and OpenGL (I'd love to make a game engine one day)
+- Reading software engineering books to get deeper domain knowledge on several topics
+- Composing soundtracks for games in a variety of genres including house, dubstep, jazz, and orchestral
