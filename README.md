@@ -15,7 +15,7 @@ Eventually, I want to go deeper into low-level development regarding graphical s
 
 **Untitled Roguelike Project | INIT Build Lead Spring 2026**\
 *December 2025 - Present*
-- After a short hiatus to focus on work and school, I have returned to continue work on a game to create a roguelike all about growing flowers
+- After a short hiatus to focus on work and school, I have returned to continue work on a roguelike all about growing flowers
 - Currently planning and conducting internal project restructuring after the completion of Beyond the Depths
 - Can't wait to share more soon!
 
