@@ -1,6 +1,6 @@
 # <p align="center"> Ozald </p>
   <p align="center">
-      Computer Science BS Student | Interested in Game Development, Graphics Programming, and Software Engineering 
+      Computer Science BS | Game Development, Graphics Programming, and Software Engineering 
   </p>
 
 ## About Me
@@ -11,7 +11,27 @@ I am currently leading a 2D Game Development team at my university as a part of 
 
 Eventually, I want to go deeper into low-level development regarding graphical systems, develop open-source software aimed to decentralize sound design education to music producers, and share my experience with game development to those that are starting out.
 
-## Projects
+## Current Projects
+
+**Untitled Roguelike Project | INIT Build Lead Spring 2026**\
+*December 2025 - Present*
+- After a short hiatus to focus on work and school, I have returned to continue work on a game to create a roguelike all about growing flowers
+- Currently planning and conducting internal project restructuring after the completion of Beyond the Depths
+- Can't wait to share more soon!
+
+## Notable Projects
+
+**Beyond the Depths | Spring 2026**\
+*February 2026 – August 2026*
+- Managed a team with a co-lead and 6 other members to create an engaging, action-packed roguelike game inspired by The Binding of Issac and Soul Knight
+- Developed the fundamental framework for the game’s enemy AI system, teaching and incorporating concepts like finite state machines, composition through OOP, and data-oriented architecture to enable flexible content creation
+- Utilized Excel for efficient task delegation and progress monitoring, Unity C# as the main game engine, FL Studio for music, and FMOD for audio integration
+
+**The Derelict | INIT Build Fall 2025**\
+*October 2025 – December 2025*
+- Worked with 16 other INIT members to create an immersive horror-survival game inspired by Alien: Isolation
+- Designed the core alien AI by utilizing state machines and predictive algorithms based on player positions, actions, and noise with C#, as well as implementing the Steam Audio API for sound physics simulation
+- Utilized Google Docs for alien AI planning, Unity for the game itself, and FL Studio for music and sound design
 
 **A Hallway, But… | GMTK Game Jam 2025**\
 *July 2025 – August 2025*
@@ -25,14 +45,7 @@ Eventually, I want to go deeper into low-level development regarding graphical s
 - Developed the fundamental framework for scalable player-object interaction systems by implementing object-oriented programming and polymorphism with C#
 - Utilized Google Docs for method documentation, Unity for game development, and FL Studio for music
 
-**The Derelict | INIT Build Fall 2025**\
-*October 2025 – December 2025*
-- Worked with 16 other INIT members to create an immersive horror-survival game inspired by Alien: Isolation
-- Designed the core alien AI by utilizing state machines and predictive algorithms based on player positions, actions, and noise with C#, as well as implementing the Steam Audio API for sound physics simulation
-- Utilized Google Docs for alien AI planning, Unity for the game itself, and FL Studio for music and sound design
 
-**Untitled Roguelike Project | INIT Build Lead Spring 2026**\
-*February 2026 – April 2026*
-- Currently collaborating with 7 other INIT members to create an exciting roguelike game inspired by roguelike games such as Soul Knight and The Binding of Issac
-- Can't wait to share more soon!
+
+
 
