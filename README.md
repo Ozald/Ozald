@@ -13,7 +13,14 @@ Eventually, I want to go deeper into low-level development regarding graphical s
 
 ## Current Projects
 
-**Untitled Roguelike Project | INIT Build Lead Spring 2026**\
+**Untitled Game Development Website**\
+*August 2026 - Present*
+- After noticing that there aren't many resources for game architecture for beginners, I am working on a website that will complement the learning journey of many game developers starting out
+- Currently designing the main format of the website and filling out content for the first few chapters
+- Will open pull requests soon once the main website layout is completed.
+
+
+**Untitled Roguelike Project**\
 *December 2025 - Present*
 - After a short hiatus to focus on work and school, I have returned to continue work on a roguelike all about growing flowers
 - Currently planning and conducting internal project restructuring after the completion of Beyond the Depths
