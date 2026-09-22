@@ -7,13 +7,13 @@
 
 Hello, my name is Ozald. I am a Computer Science student who is interested in many programming disciplines, particularly game development, graphics programming, and software engineering.
 
-I am currently leading a 2D Game Development team at my university as a part of the INIT Build program! My team is developing a roguelike game with a strict deadline of nine weeks to present to a room with other teams and sponsors at the end of the semester. In addition to that, I am also working on projects in my free time, such as learning graphics programming through the use of OpenGL and developing a satisfying, immersive flower-farming game in Unity.
+I have led a 2D Game Development team at my university as a part of the INIT Build program, as well as working on many other independent projects. My team developed a roguelike game with a strict deadline of nine weeks to present to a room of other teams and sponsors at the end of the semester. In addition to that, I am learning graphics programming through the use of OpenGL and developing a satisfying, immersive flower-farming game in Unity.
 
 Eventually, I want to go deeper into low-level development regarding graphical systems, develop open-source software aimed to decentralize sound design education to music producers, and share my experience with game development to those that are starting out.
 
 ## Current Projects
 
-**Untitled Game Development Website**\
+**GDD: Game Development Design**\
 *August 2026 - Present*
 - After noticing that there aren't many resources for game architecture for beginners, I am working on a website that will complement the learning journey of many game developers starting out
 - Currently designing the main format of the website and filling out content for the first few chapters
